@@ -1,7 +1,7 @@
 # Hi there! I'm Sebastián 👋 / ¡Hola! Soy Sebastián 👋
 
 <div align="center">
-  <i><a href="#english">Read in English 🇬🇧</a> | <a href="#español">Leer en Español 🇪🇸</a></i>
+  <i><a href="#english">Read in English 🇬🇧</a> | <a href="#español">Leer in Español 🇪🇸</a></i>
 </div>
 
 ---
@@ -26,7 +26,6 @@ Here are some of the tools I use to build my projects:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-121212?style=for-the-badge&logo=flutter&logoColor=02569B)
 
 **Backend, Tools & Deployment:**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -81,7 +80,6 @@ A continuación algunas de las herramientas que utilizo para construir mis proye
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-121212?style=for-the-badge&logo=flutter&logoColor=02569B)
 
 **Backend, Herramientas y Despliegue:**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
