@@ -10,7 +10,7 @@
 
 ### Software Engineer | Freelance Developer
 
-I'm a software engineer based in Coelemu, Chile, passionate about transforming ideas into high-performance digital solutions. I offer custom development services for entrepreneurs and businesses looking for quality, speed, and great design.
+I'm a software engineer based in Chile, passionate about transforming ideas into high-performance digital solutions. I offer custom development services for entrepreneurs and businesses looking for quality, speed, and great design.
 
 ## 🛠️ My Services
 
@@ -58,7 +58,7 @@ If you have a project in mind or need technical support, let's talk!
 
 ### Ingeniero Informático | Desarrollador Freelance
 
-Soy un ingeniero informático radicado en Coelemu, Chile, apasionado por transformar ideas en soluciones digitales de alto rendimiento. Ofrezco servicios de desarrollo a medida para emprendedores y empresas que buscan calidad, rapidez y buen diseño.
+Soy un ingeniero informático radicado en Chile, apasionado por transformar ideas en soluciones digitales de alto rendimiento. Ofrezco servicios de desarrollo a medida para emprendedores y empresas que buscan calidad, rapidez y buen diseño.
 
 ## 🛠️ Mis Servicios
 
