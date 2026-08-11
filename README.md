@@ -37,7 +37,12 @@ Here are some of the tools I use to build my projects:
 ### ☕ BRU.COFFEE - Specialty Coffee E-commerce
 A modern, high-performance web catalog built with **Next.js** and **Tailwind CSS**. It features a fully functional off-canvas shopping cart with complex state management, fully responsive design, and smooth UI animations.
 - 🔗 **Live Demo:** [https://catalogo-cafe.vercel.app/](https://catalogo-cafe.vercel.app/)
-- 💻 **Source Code:** [GitHub Repository](https://github.com/sebassanhue/catalogo-cafe)
+- 💻 **Source Code:** [https://github.com/sebassanhue/catalogo-cafe](https://github.com/sebassanhue/catalogo-cafe)
+
+### 📊 LUXE ADMIN - B2B Inventory Dashboard
+A responsive single-page application (SPA) built for luxury retail management using **Next.js** and **Tailwind CSS**. It features complex React state management for real-time inventory updates, automated status calculations, and a dynamic modal interface.
+- 🔗 **Live Demo:** [https://panel-admin-lujo.vercel.app/](https://panel-admin-lujo.vercel.app/)
+- 💻 **Source Code:** [https://github.com/sebassanhue/panel-admin-lujo](https://github.com/sebassanhue/panel-admin-lujo)
 
 ## 📫 Let's work together!
 
@@ -80,7 +85,12 @@ A continuación algunas de las herramientas que utilizo para construir mis proye
 ### ☕ BRU.COFFEE - E-commerce de Café de Especialidad
 Un catálogo web moderno y de alto rendimiento construido con **Next.js** y **Tailwind CSS**. Cuenta con un carrito de compras lateral completamente funcional con manejo complejo de estados en React, diseño 100% adaptable a móviles y animaciones fluidas de interfaz.
 - 🔗 **Demo en Vivo:** [https://catalogo-cafe.vercel.app/](https://catalogo-cafe.vercel.app/)
-- 💻 **Código Fuente:** [Repositorio en GitHub](https://github.com/sebassanhue/catalogo-cafe)
+- 💻 **Código Fuente:** [https://github.com/sebassanhue/catalogo-cafe](https://github.com/sebassanhue/catalogo-cafe)
+
+### 📊 LUXE ADMIN - Dashboard B2B de Inventario
+Una aplicación de página única (SPA) diseñada para la gestión de retail de lujo usando **Next.js** y **Tailwind CSS**. Destaca por su manejo complejo de estados en React para actualizaciones de inventario en tiempo real, cálculos de estado automatizados y una interfaz modal dinámica.
+- 🔗 **Demo en Vivo:** [https://panel-admin-lujo.vercel.app/](https://panel-admin-lujo.vercel.app/)
+- 💻 **Código Fuente:** [https://github.com/sebassanhue/panel-admin-lujo](https://github.com/sebassanhue/panel-admin-lujo)
 
 ## 📫 Contáctame para trabajar juntos
 
