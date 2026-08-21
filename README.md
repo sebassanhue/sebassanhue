@@ -46,6 +46,10 @@ Here are some of the tools and technologies I use to build my projects:
 
 ## 🚀 Featured Projects
 
+### ☕ COFFEE POS - Point of Sale & Inventory System
+A comprehensive, full-stack POS and inventory management web application built with **Next.js**, **TypeScript**, **Prisma**, and **SQLite**. It features real-time table and take-away order management, thermal voucher printing layouts, manual multi-unit inventory tracking (grams, kg, ml, liters, units) with low-stock alerts, and an advanced cash register control dashboard featuring payment method breakdowns (cash, card, transfer), category analytics, and exact date range filtering.
+- 💻 **Source Code:** [https://github.com/sebassanhue/pos-cafeteria](https://github.com/sebassanhue/pos-cafeteria)
+
 ### 🛒 FastPOS - B2B Point of Sale System
 A full-stack Point of Sale (POS) and inventory management web application built with **Laravel** and **Vue.js**. It features seamless SPA routing via Inertia.js, real-time cart calculations, SQLite database integration, and an immutable sales history log.
 - 💻 **Source Code:** [https://github.com/sebassanhue/fast-pos-laravel-vue](https://github.com/sebassanhue/fast-pos-laravel-vue)
@@ -109,6 +113,10 @@ A continuación algunas de las herramientas y tecnologías que utilizo para cons
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 🚀 Proyectos Destacados
+
+### ☕ COFFEE POS - Sistema de Punto de Venta y Control de Inventario
+Una aplicación web full-stack de punto de venta (POS) y gestión de inventario desarrollada con **Next.js**, **TypeScript**, **Prisma** y **SQLite**. Cuenta con gestión en tiempo real de mesas y pedidos para llevar, diseño optimizado para impresión de vouchers térmicos, control de inventario manual con múltiples unidades de medida (gramos, kg, ml, litros, unidades) y alertas visuales de stock bajo. Incluye un completo panel de control de caja con desglose financiero por método de pago (efectivo, tarjeta, transferencia), análisis de ventas por categoría y buscador por fecha exacta.
+- 💻 **Código Fuente:** [https://github.com/sebassanhue/pos-cafeteria](https://github.com/sebassanhue/pos-cafeteria)
 
 ### 🛒 FastPOS - Sistema de Punto de Venta B2B
 Aplicación web de una página (SPA) orientada a la gestión rápida de ventas y control de inventarios. Desarrollada con un backend robusto en **Laravel** y una interfaz altamente reactiva en **Vue.js** integrada mediante **Inertia.js** y **Tailwind CSS**. Cuenta con gestión de carrito en tiempo real, base de datos SQLite y registro inmutable del historial de ventas.
